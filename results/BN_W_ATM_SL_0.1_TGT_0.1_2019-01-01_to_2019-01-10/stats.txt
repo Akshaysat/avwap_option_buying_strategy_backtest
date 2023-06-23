@@ -1,0 +1,12 @@
+Total trades: 11
+Winning trades: 4
+Losing trades: 7
+Accuracy: 36.36 %
+Winning streak: 3
+Losing streak: 4
+Max profit: 21.04
+Max loss: -14.29
+Max drawdown: 0.0
+Average profit on winning trades: 15.2
+Average loss on losing trades: -12.53
+Average PNL: -2.45
